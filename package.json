@@ -1,0 +1,11 @@
+{
+  "name": "run-multiple",
+  "version": "0.0.1",
+  "description": "An attempt to make a simple package to run multiple processes without having to use linux disown for cross operating system compatibility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pierre Reliquet <pierre.reliquet@gmail.com>",
+  "license": "MIT"
+}
